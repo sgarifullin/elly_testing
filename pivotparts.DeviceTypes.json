@@ -1,0 +1,18 @@
+[
+  {
+    "Id": 0,
+    "Name": "unknown"
+  },
+  {
+    "Id": 1,
+    "Name": "desktop"
+  },
+  {
+    "Id": 2,
+    "Name": "mobile"
+  },
+  {
+    "Id": 3,
+    "Name": "tablet"
+  }
+]
